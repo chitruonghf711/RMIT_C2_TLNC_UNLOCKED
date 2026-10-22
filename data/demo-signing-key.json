@@ -1,0 +1,19 @@
+{
+  "publicJwk": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "s2LbSKC-a6H7PnhIEwdlK7yhH5Ff9dQbyTNdZqa_AqA",
+    "kid": "casebridge-demo-ed25519-01",
+    "alg": "EdDSA",
+    "use": "sig"
+  },
+  "privateJwk": {
+    "kty": "OKP",
+    "crv": "Ed25519",
+    "x": "s2LbSKC-a6H7PnhIEwdlK7yhH5Ff9dQbyTNdZqa_AqA",
+    "d": "1VTe50I1Zyhu3MEBlj8PJQMxDGA7whD6vRnnc8QNzHg",
+    "kid": "casebridge-demo-ed25519-01",
+    "alg": "EdDSA",
+    "use": "sig"
+  }
+}

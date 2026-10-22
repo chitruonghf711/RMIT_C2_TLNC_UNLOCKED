@@ -16,3 +16,4 @@ data/*.db
 data/*.db-*
 data/private-storage/
 .tide-pack/
+.DS_Store
